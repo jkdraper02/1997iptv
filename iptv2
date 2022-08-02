@@ -40,12 +40,36 @@ https://v-ny.theus6tv.tk/hls/2.4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/2.5/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/874.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",FOX 5.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/5.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT3.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/874.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",FOX 5.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/5.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/874.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",FOX 5.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/5.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/874.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",FOX 5.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/5.5/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WABCDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="Local" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",ABC 7.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/7.2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WABCDT3.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="Local" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",ABC 7.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/7.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT4.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="Local" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",ABC 7.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/7.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT5.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="Local" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",ABC 7.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/7.3/playlist.m3u8
 
