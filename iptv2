@@ -40,7 +40,7 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" status="online",BBC America (720p)
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimEast.us" status="online",Adult Swim East (720p)
+#EXTINF:-1 tvg-id="AdultSwim.us" status="online",Adult Swim East (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimWest.us" status="online",Adult Swim West (720p)
