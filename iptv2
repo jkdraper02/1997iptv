@@ -661,3 +661,5 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetGay.fr" tvg-name="AdultIPTV.net Gay" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
 http://cdn.adultiptv.net/gay.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay 2
+http://live.adultiptv.net/gay.m3u8
