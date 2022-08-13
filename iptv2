@@ -99,3 +99,9 @@ http://cdn.adultiptv.net/rough.m3u8
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="XYMax.uk" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-max-uk.png" group-title="XXX",XY Max
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XYMix.uk" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-mix-uk.png" group-title="XXX",XY Mix
+http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XYPlus.uk" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" group-title="XXX",XY Plus
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
