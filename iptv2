@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-id="" status="online",Buzzr (KCKS-LD1) (480p)
+#EXTINF:-1 tvg-id="KCKSLD1.us" status="online",Buzzr (KCKS-LD1) (480p)
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
-#EXTINF:-1 tvg-id="" status="online",NewsNet (KCKS-LD2) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCKSLD2.us" status="online",NewsNet (KCKS-LD2) (480p) [Not 24/7]
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 #EXTINF:-1 tvg-id="" status="online",Ace TV (KCKS-LD3) (480p)
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
@@ -44,7 +44,7 @@ https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/62407
 #EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
+#EXTINF:-1 tvg-id="HLN.us" status="online",
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East
@@ -62,7 +62,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3
 #EXTINF:-1 tvg-id="TruTVEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="Undefined",TruTV East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TruTVWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/e3KabTt.jpg" group-title="Undefined",TruTV West
+#EXTINF:-1 tvg-id="TruTVWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="Undefined",TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TCMEast.us" status="online",TCM East
@@ -76,9 +76,6 @@ https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/62407
 
 #EXTINF:-1 tvg-id="SundanceTVEast.us" status="online",Sundance East (720p)
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" status="online",Classic Movies Channel (720p)
-https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" status="online",Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
@@ -147,15 +144,13 @@ http://cdn.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-id="HighTimes.us" status="online",High Times (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
-#EXTINF:-1 tvg-id="HighVisionTV.ir" status="online",High Vision (1080p) [Not 24/7]
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Newsy.us" status="online",Newsy (1080p)
+#EXTINF:-1 tvg-id="Newsy.us" status="online",Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA (720p)
+#EXTINF:-1 tvg-id="CNN.us" status="online",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="ViceEast.us" status="online",Vice East
+#EXTINF:-1 tvg-id="Vicetv.us" status="online",Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
