@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-id="KCKSLD1.us" status="online",Buzzr (KCKS-LD1) (480p)
+#EXTINF:-1 tvg-id="buzzr.us" status="online",Buzzr (KCKS-LD1) (480p)
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
-#EXTINF:-1 tvg-id="KCKSLD2.us" status="online",NewsNet (KCKS-LD2) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="newsnet.us" status="online",NewsNet (KCKS-LD2) (480p) [Not 24/7]
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
-#EXTINF:-1 tvg-id="" status="online",Ace TV (KCKS-LD3) (480p)
+#EXTINF:-1 tvg-id="acetv.us" status="online",Ace TV (KCKS-LD3) (480p)
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 tvg-id="" status="online",Action (KCKS-LD4) (480p)
+#EXTINF:-1 tvg-id="action.us" status="online",Action (KCKS-LD4) (480p)
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:-1 tvg-id="" status="online",America's Voice (KCKS-LD5) (480p) [Not 24/7]
 https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
