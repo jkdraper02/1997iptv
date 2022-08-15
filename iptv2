@@ -33,16 +33,16 @@ https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/62407
 #EXTINF:-1 tvg-id="IFCEast.us" status="online",IFC East (720p)
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCMEast.us" status="online",TCM East
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://en.m.wikipedia.org/wiki/Turner_Classic_Movies#/media/File%3ATCM_2021.svg" status="online",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="TCMWest.us" status="online",TCM West
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://en.m.wikipedia.org/wiki/Turner_Classic_Movies#/media/File%3ATCM_2021.svg" status="online",TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 
 <<GAY>>
 
-#EXTINF:-1 tvg-id="CinePride.us" status="online",CinePride (720p)
+#EXTINF:-1 tvg-id="CinePride.us" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" status="online",CinePride (720p)
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 
 #EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry (720p) [Not 24/7]
@@ -56,7 +56,7 @@ https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/
 
 <<MUSIC>>
 
-#EXTINF:-1 tvg-id="vh1EAST.us" status="online",VH1 (1080p)
+#EXTINF:-1 tvg-id="vh1tv.us" tvg-logo="https://en.m.wikipedia.org/wiki/VH1#/media/File%3AVH1_logo.svg" status="online",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="CMC.us" status="online",CMC (California Music Channel)
@@ -68,10 +68,10 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us" status="online",Shout! Factory TV (1080p)
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Charge!.us" status="online",Charge! (720p)
+#EXTINF:-1 tvg-id="Charge.us" status="online",Charge! (720p)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-id="Comettv.us" status="online",Comet (720p)
+#EXTINF:-1 tvg-id="Comet.us" status="online",Comet (720p)
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-id="bingetv.us" status="online",Binge
