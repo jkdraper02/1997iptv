@@ -663,5 +663,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620bfa7df72827000703dd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6267352efcf21c0007c76642/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="1120" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="Daytime TV",The Judge Judy Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-chno="424" group-title="News + Opinion",Fox Weather 24/7
 https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 channel-id="AMCEast.us" tvg-id="AMCEast.us" tvg-chno="227" group-title="Entertainment",AMC EAST
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="amcplus.us" tvg-id="amcplus.us" tvg-chno="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Entertainment",AMC+
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
+
+#EXTINF:-1 channel-id="AMCPresents.us" tvg-id="AMCPresents.us" tvg-chno="229" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+
+
