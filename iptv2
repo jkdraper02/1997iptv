@@ -667,14 +667,41 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6283d51144ad8f0007fa38
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-chno="424" group-title="News + Opinion",Fox Weather 24/7
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 channel-id="AMCEast.us" tvg-id="AMCEast.us" tvg-chno="227" group-title="Entertainment",AMC EAST
+#EXTINF:-1 channel-id="AMCEast.us" tvg-id="AMCEast.us" tvg-chno="228" group-title="Entertainment",AMC EAST
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 channel-id="amcplus.us" tvg-id="amcplus.us" tvg-chno="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Entertainment",AMC+
+#EXTINF:-1 channel-id="amcplus.us" tvg-id="amcplus.us" tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Entertainment",AMC+
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 
-#EXTINF:-1 channel-id="AMCPresents.us" tvg-id="AMCPresents.us" tvg-chno="229" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="TBSEast.us" tvg-id="TBSEast.us" tvg-chno="226" group-title="Entertainment",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 channel-id="TBSWest.us" tvg-id="TBSWest.us" tvg-chno="227" group-title="Entertainment",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 channel-id="TNTEast.us" tvg-id="TNTEast.us" tvg-chno="231" group-title="Entertainment",TNT East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 channel-id="TNTWest.us" tvg-id="TNTWest.us" tvg-chno="232" group-title="Entertainment",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 channel-id="TruTVEast.us" tvg-id="TruTVEast.us" tvg-chno="233" group-title="Entertainment",TruTV East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 channel-id="TruTVWest.us" tvg-id="TruTVWest.us" tvg-chno="234" group-title="Entertainment",TruTV West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 channel-id="BBCAmericaEast.us" tvg-id="BBCAmericaEast.us" tvg-chno="46" group-title="Entertainment",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="SundanceTVEast.us" tvg-id="SundanceTVEast.us" tvg-chno="47" group-title="Entertainment",Sundance East
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="IFCEast.us" tvg-id="IFCEast.us" tvg-chno="48" group-title="Entertainment",IFC East
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="TCMEast.us" tvg-id="TCMEast.us" tvg-chno="49" group-title="Entertainment",TCM East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 channel-id="TCMWest.us" tvg-id="TCMWest.us" tvg-chno="50" group-title="Entertainment",TCM West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
