@@ -694,11 +694,17 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 #EXTINF:-1 channel-id="BBCAmericaEast.us" tvg-id="BBCAmericaEast.us" tvg-chno="46" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 channel-id="SundanceTVEast.us" tvg-id="SundanceTVEast.us" tvg-chno="47" group-title="Entertainment",Sundance East
+#EXTINF:-1 channel-id="SundanceTVEast.us" tvg-id="SundanceTVEast.us" tvg-chno="3" group-title="Entertainment",Sundance East
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 channel-id="IFCEast.us" tvg-id="IFCEast.us" tvg-chno="48" group-title="Entertainment",IFC East
+#EXTINF:-1 channel-id="SundanceTVWest.us" tvg-id="SundanceTVWest.us" tvg-chno="4" group-title="Entertainment",Sundance West
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-west-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="IFCEast.us" tvg-id="IFCEast.us" tvg-chno="5" group-title="Entertainment",IFC East
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 channel-id="IFCWest.us" tvg-id="IFCWest.us" tvg-chno="6" group-title="Entertainment",IFC West
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-west-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 channel-id="TCMEast.us" tvg-id="TCMEast.us" tvg-chno="49" group-title="Entertainment",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
