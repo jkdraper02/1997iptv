@@ -1,3 +1,5 @@
+#EXTINF:-1 channel-id="WAMOlive.us" tvg-id="WAMOlive.us" tvg-chno="888" tvg-logo="" group-title="Live Cam",Washington Mon
+https://videos-3.earthcam.com/fecnetwork/4356.flv/playlist.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwAxnzL0TU2Y6I2KUsCuSrHAWzeDYuDzQATQa8vsyCh2F
 #EXTINF:-1 channel-id="pluto-56b27f85ff3037045055037e" tvg-id="56b27f85ff3037045055037e"  tvg-chno="57"  tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Animals",Animals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5bb1ad55268cae539bcedb08" tvg-id="5bb1ad55268cae539bcedb08"  tvg-chno="58"  tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Animals",Pet Collective
