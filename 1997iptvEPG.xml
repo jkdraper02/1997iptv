@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="tvtv.us">
+  <channels>
+    
+<channel lang="en"  xmltv_id="FoxWeather.us" site_id="121307">Fox Weather</channel>
+<channel lang="en"  xmltv_id="ABCNews.us" site_id="113380">ABC News</channel>
+<channel lang="en"  xmltv_id="CNN.us" site_id="58646">CNN (Live)</channel>
+<channel lang="en"  xmltv_id="NewsNet.us" site_id="92205">NewsNet</channel>
+<channel lang="en"  xmltv_id="Vicetv.us" site_id="18822">ViceTV</channel>
+<channel lang="en"  xmltv_id="TBSEast.us" site_id="58515">TBS East</channel>
+<channel lang="en"  xmltv_id="TBSWest.us" site_id="67890">TBS West</channel>
+<channel lang="en"  xmltv_id="TruTVEast.us" site_id="10153">TruTV East</channel>
+<channel lang="en"  xmltv_id="TruTVWest.us" site_id="24569">TruTV West</channel>
+<channel lang="en"  xmltv_id="AdultSwimEast.us" site_id="83166">Adult Swim East</channel>
+<channel lang="en"  xmltv_id="AdultSwimWest.us" site_id="110135">Adult Swim West</channel>
+<channel lang="en"  xmltv_id="ComedyDynamics.us" site_id="111668">Comedy Dynamics</channel>
+<channel lang="en"  xmltv_id="AMCEast.us" site_id="10021">AMC EAST</channel>
+<channel lang="en"  xmltv_id="amcplus.us" site_id="114759">AMC+</channel>
+<channel lang="en"  xmltv_id="TNTEast.us" site_id="42642">TNT East</channel>
+<channel lang="en"  xmltv_id="TNTWest.us" site_id="61340">TNT West</channel>
+<channel lang="en"  xmltv_id="BBCAmericaEast.us" site_id="18332">BBC America East</channel>
+<channel lang="en"  xmltv_id="SundanceTVEast.us" site_id="71280">Sundance East</channel>
+<channel lang="en"  xmltv_id="IFCEast.us" site_id="14873">IFC East</channel>
+<channel lang="en"  xmltv_id="ElectricNow.us" site_id="112797">ElectricNow</channel>
+<channel lang="en"  xmltv_id="PositivTV.us" site_id="34169">PositivTV</channel>
+<channel lang="en"  xmltv_id="TBNInspire.us" site_id="122276">TBN Inspire</channel>
+<channel lang="en"  xmltv_id="Revry.us" site_id="113603">Revry</channel>
+<channel lang="en"  xmltv_id="RevryQueer.us" site_id="113603">Revry Queer</channel>
+<channel lang="en"  xmltv_id="Charge.us" site_id="102148">Charge!</channel>
+<channel lang="en"  xmltv_id="ThisTV.us" site_id="61775">This TV Network</channel>
+<channel lang="en"  xmltv_id="CONtv.us" site_id="110483">CONtv</channel>
+<channel lang="en"  xmltv_id="Comet.us" site_id="97051">Comet</channel>
+<channel lang="en"  xmltv_id="PeopleTV.us" site_id="107584">People TV</channel>
+<channel lang="en"  xmltv_id="HLN.us" site_id="10145">HLN</channel>
+<channel lang="en"  xmltv_id="LawCrime.us" site_id="109553">Law & Crime</channel>
+<channel lang="en"  xmltv_id="PBSKidsEasternCentral.us" site_id="101364">PBS Kids East</channel>
+<channel lang="en"  xmltv_id="CartoonNetworkEast.us" site_id="60048">Cartoon Network East</channel>
+<channel lang="en"  xmltv_id="CartoonNetworkWest.us" site_id="18151">Cartoon Network West</channel>
+<channel lang="en"  xmltv_id="ClassicArtsShowcase.us" site_id="16325">Classic Arts Showcase</channel>
+<channel lang="en"  xmltv_id="NASATV.us" site_id="12553">NASA TV</channel>
+<channel lang="en"  xmltv_id="NASATVUHD.us" site_id="34466">NASA TV UHD</channel>
+<channel lang="en"  xmltv_id="Tastemade.us" site_id="107076">Tastemade</channel>
+<channel lang="en"  xmltv_id="TCMEast.us" site_id="64312">TCM East</channel>
+<channel lang="en"  xmltv_id="revn.us" site_id="91119">REV'n</channel>
+<channel lang="en"  xmltv_id="A3Bikini.us" site_id="31590">A3Bikini</channel>
+<channel lang="en"  xmltv_id="MITV2" site_id="31590">Miami TV Jenny</channel>
+<channel lang="en"  xmltv_id="AdultIPTV1.us" site_id="31590">AdultIPTV</channel>
+<channel lang="en"  xmltv_id="AdultIPTV2.us" site_id="31590">AdultIPTV II</channel>
+<channel lang="en"  xmltv_id="AdultIPTV3.us" site_id="31590">AdultIPTV III</channel>
+<channel lang="en"  xmltv_id="AdultIPTV4.us" site_id="31590">AdultIPTV IV</channel>
+<channel lang="en"  xmltv_id="AdultIPTV5.us" site_id="31590">AdultIPTV V</channel>
+<channel lang="en"  xmltv_id="AdultIPTV6.us" site_id="31590">AdultIPTV VI</channel>
+<channel lang="en"  xmltv_id="AdultIPTV7.us" site_id="31590">AdultIPTV VII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV8.us" site_id="31590">AdultIPTV VIII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV9.us" site_id="31590">AdultIPTV IX</channel>
+<channel lang="en"  xmltv_id="AdultIPTV10.us" site_id="31590">AdultIPTV X</channel>
+<channel lang="en"  xmltv_id="AdultIPTV11.us" site_id="31590">AdultIPTV XI</channel>
+<channel lang="en"  xmltv_id="AdultIPTV12.us" site_id="31590">AdultIPTV XII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV13.us" site_id="31590">AdultIPTV XIII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV14.us" site_id="31590">AdultIPTV XIV</channel>
+<channel lang="en"  xmltv_id="AdultIPTV15.us" site_id="31590">AdultIPTV XV</channel>
+<channel lang="en"  xmltv_id="AdultIPTV16.us" site_id="31590">AdultIPTV XVI</channel>
+<channel lang="en"  xmltv_id="AdultIPTV17.us" site_id="31590">AdultIPTV XVII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV18.us" site_id="31590">AdultIPTV XVIII</channel>
+<channel lang="en"  xmltv_id="AdultIPTV19.us" site_id="31590">AdultIPTV XIX</channel>
+<channel lang="en"  xmltv_id="AdultIPTV20.us" site_id="31590">AdultIPTV XX</channel>
+<channel lang="en"  xmltv_id="AdultIPTV21.us" site_id="31590">AdultIPTV XXI</channel>
+<channel lang="en"  xmltv_id="AdultIPTV22.us" site_id="31590">AdultIPTV XXII</channel>
+<channel lang="en"  xmltv_id="AdultIPTVGay1.us" site_id="31590">AdultIPTV Gay</channel>
+<channel lang="en"  xmltv_id="AdultIPTVGay2.us" site_id="31590">AdultIPTV Gay II</channel>
+  </channels>
+</site>
