@@ -1,6 +1,6 @@
 #EXTINF:-1 channel-id="FoxWeather.us" tvg-id="FoxWeather.us"  tvg-chno="70"  tvg-logo="" group-title="News & Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 channel-id="pluto-61e9af6bfbbcc6000700119b" tvg-id="61e9af6bfbbcc6000700119b"  tvg-chno="71"  tvg-logo="https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png" group-title="News & Weather",WeatherNation - Los Angeles
+#EXTINF:-1 channel-id="pluto-61e9af6bfbbcc6000700119b" tvg-id="61e9af6bfbbcc6000700119b"  tvg-chno="71"  tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/weathernation.png" group-title="News & Weather",WeatherNation - Los Angeles
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e9af6bfbbcc6000700119b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="WLEXNEWS.us" tvg-id="WLEXNEWS.us"  tvg-chno="75"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/Wlex_nbc18_lexington.png" group-title="Local News",WLEX-DT News Lexington KY
 https://content.uplynk.com/channel/94ab0fcd1b304176a28dbf64521aa6a4.m3u8
@@ -14,7 +14,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a6173797896
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 channel-id="CNN.us" tvg-id="CNN.us"  tvg-chno="87"  tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="News & Weather",CNN (Live)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 channel-id="pluto-5421f71da6af422839419cb3" tvg-id="5421f71da6af422839419cb3"  tvg-chno="88"  tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-1980.png" group-title="News & Weather",CNN Pluto
+#EXTINF:-1 channel-id="pluto-5421f71da6af422839419cb3" tvg-id="5421f71da6af422839419cb3"  tvg-chno="88"  tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-headline-news-logo-black-and-white-1.png" group-title="News & Weather",CNN Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5268abcd0ce20a8472000114" tvg-id="5268abcd0ce20a8472000114"  tvg-chno="89"  tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="News & Weather",Pluto TV News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -36,9 +36,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c5
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 channel-id="TBSWest.us" tvg-id="TBSWest.us"  tvg-chno="106"  tvg-logo="" group-title="Entertainment Comedy",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 channel-id="TruTVEast.us" tvg-id="TruTVEast.us"  tvg-chno="107"  tvg-logo="https://img1.pnghut.com/5/5/7/SCdQucQczw/trutv-yellow-trademark-logo-text.jpg" group-title="Entertainment Comedy",TruTV East
+#EXTINF:-1 channel-id="TruTVEast.us" tvg-id="TruTVEast.us"  tvg-chno="107"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png?20150428131813" group-title="Entertainment Comedy",TruTV East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 channel-id="TruTVWest.us" tvg-id="TruTVWest.us"  tvg-chno="108"  tvg-logo="https://img1.pnghut.com/5/5/7/SCdQucQczw/trutv-yellow-trademark-logo-text.jpg" group-title="Entertainment Comedy",TruTV West
+#EXTINF:-1 channel-id="TruTVWest.us" tvg-id="TruTVWest.us"  tvg-chno="108"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png?20150428131813" group-title="Entertainment Comedy",TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 channel-id="pluto-5dcc42446750e200093b15e2" tvg-id="5dcc42446750e200093b15e2"  tvg-chno="109"  tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Entertainment Comedy",CMT Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -206,7 +206,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5877acecb16bb1e042ee453f" tvg-id="5877acecb16bb1e042ee453f"  tvg-chno="212"  tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="Reality",Weddings
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="PeopleTV.us" tvg-id="PeopleTV.us"  tvg-chno="213"  tvg-logo="" group-title="Reality",People TV
+#EXTINF:-1 channel-id="PeopleTV.us" tvg-id="PeopleTV.us"  tvg-chno="213"  tvg-logo="https://imgx.fubo.tv/station_logos/peopletv_c.png" group-title="Reality",People TV
 https://peopletv-oo.akamaized.net/playlist.m3u8
 #EXTINF:-1 channel-id="YoungHollywood.us" tvg-id="YoungHollywood.us"  tvg-chno="214"  tvg-logo="" group-title="Reality",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
@@ -400,9 +400,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-591105034c1806b47438342c" tvg-id="591105034c1806b47438342c"  tvg-chno="724"  tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Movies",The Asylum
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="TCMEast.us" tvg-id="TCMEast.us"  tvg-chno="725"  tvg-logo="" group-title="Movies",TCM East
+#EXTINF:-1 channel-id="TCMEast.us" tvg-id="TCMEast.us"  tvg-chno="725"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="Movies",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 channel-id="TCMWest.us" tvg-id="TCMWest.us"  tvg-chno="726"  tvg-logo="" group-title="Movies",TCM West
+#EXTINF:-1 channel-id="TCMWest.us" tvg-id="TCMWest.us"  tvg-chno="726"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="Movies",TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 channel-id="AmericanHorrors.us" tvg-id="AmericanHorrors.us"  tvg-chno="727"  tvg-logo="" group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
