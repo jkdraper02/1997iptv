@@ -622,5 +622,229 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
 #EXTINF:-1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e"  tvg-chno="1154"  tvg-logo="" group-title="Relaxation",NaturESCAPE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="LFUCG1.us" tvg-id="LFUCG1.us"  tvg-chno="1301"  tvg-logo="" group-title="Local News",LFUCG Newtown/Newtown Ct.
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-001.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG2.us" tvg-id="LFUCG2.us"  tvg-chno="1302"  tvg-logo="" group-title="Local News",LFUCG CAM 2
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-002.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG3.us" tvg-id="LFUCG3.us"  tvg-chno="1303"  tvg-logo="" group-title="Local News",LFUCG CAM 3
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-003.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG4.us" tvg-id="LFUCG4.us"  tvg-chno="1304"  tvg-logo="" group-title="Local News",LFUCG CAM 4
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-004.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG5.us" tvg-id="LFUCG5.us"  tvg-chno="1305"  tvg-logo="" group-title="Local News",LFUCG CAM 5
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-005.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG6.us" tvg-id="LFUCG6.us"  tvg-chno="1306"  tvg-logo="" group-title="Local News",LFUCG CAM 6
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-006.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG7.us" tvg-id="LFUCG7.us"  tvg-chno="1307"  tvg-logo="" group-title="Local News",LFUCG CAM 7
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-007.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG8.us" tvg-id="LFUCG8.us"  tvg-chno="1308"  tvg-logo="" group-title="Local News",LFUCG CAM 8
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-008.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG9.us" tvg-id="LFUCG9.us"  tvg-chno="1309"  tvg-logo="" group-title="Local News",LFUCG CAM 9
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-009.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG10.us" tvg-id="LFUCG10.us"  tvg-chno="1310"  tvg-logo="" group-title="Local News",LFUCG CAM 10
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-010.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG11.us" tvg-id="LFUCG11.us"  tvg-chno="1311"  tvg-logo="" group-title="Local News",LFUCG CAM 11
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-011.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG12.us" tvg-id="LFUCG12.us"  tvg-chno="1312"  tvg-logo="" group-title="Local News",LFUCG CAM 12
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-012.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG13.us" tvg-id="LFUCG13.us"  tvg-chno="1313"  tvg-logo="" group-title="Local News",LFUCG CAM 13
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-013.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG14.us" tvg-id="LFUCG14.us"  tvg-chno="1314"  tvg-logo="" group-title="Local News",LFUCG CAM 14
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-014.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG15.us" tvg-id="LFUCG15.us"  tvg-chno="1315"  tvg-logo="" group-title="Local News",LFUCG CAM 15
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-015.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG16.us" tvg-id="LFUCG16.us"  tvg-chno="1316"  tvg-logo="" group-title="Local News",LFUCG CAM 16
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-016.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG17.us" tvg-id="LFUCG17.us"  tvg-chno="1317"  tvg-logo="" group-title="Local News",LFUCG CAM 17
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-017.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG18.us" tvg-id="LFUCG18.us"  tvg-chno="1318"  tvg-logo="" group-title="Local News",LFUCG CAM 18
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-018.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG19.us" tvg-id="LFUCG19.us"  tvg-chno="1319"  tvg-logo="" group-title="Local News",LFUCG CAM 19
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-019.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG20.us" tvg-id="LFUCG20.us"  tvg-chno="1320"  tvg-logo="" group-title="Local News",LFUCG CAM 20
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-020.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG21.us" tvg-id="LFUCG21.us"  tvg-chno="1321"  tvg-logo="" group-title="Local News",LFUCG CAM 21
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-021.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG22.us" tvg-id="LFUCG22.us"  tvg-chno="1322"  tvg-logo="" group-title="Local News",LFUCG CAM 22
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-022.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG23.us" tvg-id="LFUCG23.us"  tvg-chno="1323"  tvg-logo="" group-title="Local News",LFUCG CAM 23
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-023.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG24.us" tvg-id="LFUCG24.us"  tvg-chno="1324"  tvg-logo="" group-title="Local News",LFUCG CAM 24
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-024.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG25.us" tvg-id="LFUCG25.us"  tvg-chno="1325"  tvg-logo="" group-title="Local News",LFUCG CAM 25
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-025.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG26.us" tvg-id="LFUCG26.us"  tvg-chno="1326"  tvg-logo="" group-title="Local News",LFUCG CAM 26
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-026.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG27.us" tvg-id="LFUCG27.us"  tvg-chno="1327"  tvg-logo="" group-title="Local News",LFUCG CAM 27
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-027.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG28.us" tvg-id="LFUCG28.us"  tvg-chno="1328"  tvg-logo="" group-title="Local News",LFUCG CAM 28
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-028.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG29.us" tvg-id="LFUCG29.us"  tvg-chno="1329"  tvg-logo="" group-title="Local News",LFUCG CAM 29
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-029.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG30.us" tvg-id="LFUCG30.us"  tvg-chno="1330"  tvg-logo="" group-title="Local News",LFUCG CAM 30
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-030.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG31.us" tvg-id="LFUCG31.us"  tvg-chno="1331"  tvg-logo="" group-title="Local News",LFUCG CAM 31
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-031.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG32.us" tvg-id="LFUCG32.us"  tvg-chno="1332"  tvg-logo="" group-title="Local News",LFUCG CAM 32
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-032.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG33.us" tvg-id="LFUCG33.us"  tvg-chno="1333"  tvg-logo="" group-title="Local News",LFUCG CAM 33
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-033.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG34.us" tvg-id="LFUCG34.us"  tvg-chno="1334"  tvg-logo="" group-title="Local News",LFUCG CAM 34
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-034.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG35.us" tvg-id="LFUCG35.us"  tvg-chno="1335"  tvg-logo="" group-title="Local News",LFUCG CAM 35
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-035.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG36.us" tvg-id="LFUCG36.us"  tvg-chno="1336"  tvg-logo="" group-title="Local News",LFUCG CAM 36
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-036.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG37.us" tvg-id="LFUCG37.us"  tvg-chno="1337"  tvg-logo="" group-title="Local News",LFUCG CAM 37
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-037.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG38.us" tvg-id="LFUCG38.us"  tvg-chno="1338"  tvg-logo="" group-title="Local News",LFUCG CAM 38
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-038.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG39.us" tvg-id="LFUCG39.us"  tvg-chno="1339"  tvg-logo="" group-title="Local News",LFUCG CAM 39
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-039.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG40.us" tvg-id="LFUCG40.us"  tvg-chno="1340"  tvg-logo="" group-title="Local News",LFUCG CAM 40
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-040.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG41.us" tvg-id="LFUCG41.us"  tvg-chno="1341"  tvg-logo="" group-title="Local News",LFUCG CAM 41
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-041.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG42.us" tvg-id="LFUCG42.us"  tvg-chno="1342"  tvg-logo="" group-title="Local News",LFUCG CAM 42
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-042.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG43.us" tvg-id="LFUCG43.us"  tvg-chno="1343"  tvg-logo="" group-title="Local News",LFUCG CAM 43
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-043.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG44.us" tvg-id="LFUCG44.us"  tvg-chno="1344"  tvg-logo="" group-title="Local News",LFUCG CAM 44
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-044.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG45.us" tvg-id="LFUCG45.us"  tvg-chno="1345"  tvg-logo="" group-title="Local News",LFUCG CAM 45
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-045.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG46.us" tvg-id="LFUCG46.us"  tvg-chno="1346"  tvg-logo="" group-title="Local News",LFUCG CAM 46
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-046.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG47.us" tvg-id="LFUCG47.us"  tvg-chno="1347"  tvg-logo="" group-title="Local News",LFUCG CAM 47
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-047.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG48.us" tvg-id="LFUCG48.us"  tvg-chno="1348"  tvg-logo="" group-title="Local News",LFUCG CAM 48
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-048.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG49.us" tvg-id="LFUCG49.us"  tvg-chno="1349"  tvg-logo="" group-title="Local News",LFUCG CAM 49
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-049.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG50.us" tvg-id="LFUCG50.us"  tvg-chno="1350"  tvg-logo="" group-title="Local News",LFUCG CAM 50
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-050.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG51.us" tvg-id="LFUCG51.us"  tvg-chno="1351"  tvg-logo="" group-title="Local News",LFUCG CAM 51
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-051.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG52.us" tvg-id="LFUCG52.us"  tvg-chno="1352"  tvg-logo="" group-title="Local News",LFUCG CAM 52
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-052.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG53.us" tvg-id="LFUCG53.us"  tvg-chno="1353"  tvg-logo="" group-title="Local News",LFUCG CAM 53
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-053.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG54.us" tvg-id="LFUCG54.us"  tvg-chno="1354"  tvg-logo="" group-title="Local News",LFUCG CAM 54
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-054.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG55.us" tvg-id="LFUCG55.us"  tvg-chno="1355"  tvg-logo="" group-title="Local News",LFUCG CAM 55
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-055.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG56.us" tvg-id="LFUCG56.us"  tvg-chno="1356"  tvg-logo="" group-title="Local News",LFUCG CAM 56
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-056.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG57.us" tvg-id="LFUCG57.us"  tvg-chno="1357"  tvg-logo="" group-title="Local News",LFUCG CAM 57
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-057.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG58.us" tvg-id="LFUCG58.us"  tvg-chno="1358"  tvg-logo="" group-title="Local News",LFUCG CAM 58
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-058.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG59.us" tvg-id="LFUCG59.us"  tvg-chno="1359"  tvg-logo="" group-title="Local News",LFUCG CAM 59
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-059.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG60.us" tvg-id="LFUCG60.us"  tvg-chno="1360"  tvg-logo="" group-title="Local News",LFUCG CAM 60
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-060.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG61.us" tvg-id="LFUCG61.us"  tvg-chno="1361"  tvg-logo="" group-title="Local News",LFUCG CAM 61
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-061.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG62.us" tvg-id="LFUCG62.us"  tvg-chno="1362"  tvg-logo="" group-title="Local News",LFUCG CAM 62
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-062.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG63.us" tvg-id="LFUCG63.us"  tvg-chno="1363"  tvg-logo="" group-title="Local News",LFUCG CAM 63
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-063.stream/playlist.m3u8
 #EXTINF:-1 channel-id="LFUCG64.us" tvg-id="LFUCG64.us"  tvg-chno="1364"  tvg-logo="" group-title="Local News",LFUCG CAM 64
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-064.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG65.us" tvg-id="LFUCG65.us"  tvg-chno="1365"  tvg-logo="" group-title="Local News",LFUCG CAM 65
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-065.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG66.us" tvg-id="LFUCG66.us"  tvg-chno="1366"  tvg-logo="" group-title="Local News",LFUCG CAM 66
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-066.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG67.us" tvg-id="LFUCG67.us"  tvg-chno="1367"  tvg-logo="" group-title="Local News",LFUCG CAM 67
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-067.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG68.us" tvg-id="LFUCG68.us"  tvg-chno="1368"  tvg-logo="" group-title="Local News",LFUCG CAM 68
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-068.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG69.us" tvg-id="LFUCG69.us"  tvg-chno="1369"  tvg-logo="" group-title="Local News",LFUCG CAM 69
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-069.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG70.us" tvg-id="LFUCG70.us"  tvg-chno="1370"  tvg-logo="" group-title="Local News",LFUCG CAM 70
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-070.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG71.us" tvg-id="LFUCG71.us"  tvg-chno="1371"  tvg-logo="" group-title="Local News",LFUCG CAM 71
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-071.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG72.us" tvg-id="LFUCG72.us"  tvg-chno="1372"  tvg-logo="" group-title="Local News",LFUCG CAM 72
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-072.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG73.us" tvg-id="LFUCG73.us"  tvg-chno="1373"  tvg-logo="" group-title="Local News",LFUCG CAM 73
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-073.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG74.us" tvg-id="LFUCG74.us"  tvg-chno="1374"  tvg-logo="" group-title="Local News",LFUCG CAM 74
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-074.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG75.us" tvg-id="LFUCG75.us"  tvg-chno="1375"  tvg-logo="" group-title="Local News",LFUCG CAM 75
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-075.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG76.us" tvg-id="LFUCG76.us"  tvg-chno="1376"  tvg-logo="" group-title="Local News",LFUCG CAM 76
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-076.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG77.us" tvg-id="LFUCG77.us"  tvg-chno="1377"  tvg-logo="" group-title="Local News",LFUCG CAM 77
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-077.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG78.us" tvg-id="LFUCG78.us"  tvg-chno="1378"  tvg-logo="" group-title="Local News",LFUCG CAM 78
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-078.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG79.us" tvg-id="LFUCG79.us"  tvg-chno="1379"  tvg-logo="" group-title="Local News",LFUCG CAM 79
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-079.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG80.us" tvg-id="LFUCG80.us"  tvg-chno="1380"  tvg-logo="" group-title="Local News",LFUCG CAM 80
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-080.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG81.us" tvg-id="LFUCG81.us"  tvg-chno="1381"  tvg-logo="" group-title="Local News",LFUCG CAM 81
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-081.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG82.us" tvg-id="LFUCG82.us"  tvg-chno="1382"  tvg-logo="" group-title="Local News",LFUCG CAM 82
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-082.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG83.us" tvg-id="LFUCG83.us"  tvg-chno="1383"  tvg-logo="" group-title="Local News",LFUCG CAM 83
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-083.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG84.us" tvg-id="LFUCG84.us"  tvg-chno="1384"  tvg-logo="" group-title="Local News",LFUCG CAM 84
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-084.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG85.us" tvg-id="LFUCG85.us"  tvg-chno="1385"  tvg-logo="" group-title="Local News",LFUCG CAM 85
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-085.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG86.us" tvg-id="LFUCG86.us"  tvg-chno="1386"  tvg-logo="" group-title="Local News",LFUCG CAM 86
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-086.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG87.us" tvg-id="LFUCG87.us"  tvg-chno="1387"  tvg-logo="" group-title="Local News",LFUCG CAM 87
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-087.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG88.us" tvg-id="LFUCG88.us"  tvg-chno="1388"  tvg-logo="" group-title="Local News",LFUCG CAM 88
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-088.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG89.us" tvg-id="LFUCG89.us"  tvg-chno="1389"  tvg-logo="" group-title="Local News",LFUCG CAM 89
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-089.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG90.us" tvg-id="LFUCG90.us"  tvg-chno="1390"  tvg-logo="" group-title="Local News",LFUCG CAM 90
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-090.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG91.us" tvg-id="LFUCG91.us"  tvg-chno="1391"  tvg-logo="" group-title="Local News",LFUCG CAM 91
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-091.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG92.us" tvg-id="LFUCG92.us"  tvg-chno="1392"  tvg-logo="" group-title="Local News",LFUCG CAM 92
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-092.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG93.us" tvg-id="LFUCG93.us"  tvg-chno="1393"  tvg-logo="" group-title="Local News",LFUCG CAM 93
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-093.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG94.us" tvg-id="LFUCG94.us"  tvg-chno="1394"  tvg-logo="" group-title="Local News",LFUCG CAM 94
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-094.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG95.us" tvg-id="LFUCG95.us"  tvg-chno="1395"  tvg-logo="" group-title="Local News",LFUCG CAM 95
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-095.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG96.us" tvg-id="LFUCG96.us"  tvg-chno="1396"  tvg-logo="" group-title="Local News",LFUCG CAM 96
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-096.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG97.us" tvg-id="LFUCG97.us"  tvg-chno="1397"  tvg-logo="" group-title="Local News",LFUCG CAM 97
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-097.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG98.us" tvg-id="LFUCG98.us"  tvg-chno="1398"  tvg-logo="" group-title="Local News",LFUCG CAM 98
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-098.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG99.us" tvg-id="LFUCG99.us"  tvg-chno="1399"  tvg-logo="" group-title="Local News",LFUCG CAM 99
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-099.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG100.us" tvg-id="LFUCG100.us"  tvg-chno="1400"  tvg-logo="" group-title="Local News",LFUCG CAM 100
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-100.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG101.us" tvg-id="LFUCG101.us"  tvg-chno="1401"  tvg-logo="" group-title="Local News",LFUCG CAM 101
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-101.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG102.us" tvg-id="LFUCG102.us"  tvg-chno="1402"  tvg-logo="" group-title="Local News",LFUCG CAM 102
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-102.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG103.us" tvg-id="LFUCG103.us"  tvg-chno="1403"  tvg-logo="" group-title="Local News",LFUCG CAM 103
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-103.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG104.us" tvg-id="LFUCG104.us"  tvg-chno="1404"  tvg-logo="" group-title="Local News",LFUCG CAM 104
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-104.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG105.us" tvg-id="LFUCG105.us"  tvg-chno="1405"  tvg-logo="" group-title="Local News",LFUCG CAM 105
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-105.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG106.us" tvg-id="LFUCG106.us"  tvg-chno="1406"  tvg-logo="" group-title="Local News",LFUCG CAM 106
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-106.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG107.us" tvg-id="LFUCG107.us"  tvg-chno="1407"  tvg-logo="" group-title="Local News",LFUCG CAM 107
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-107.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG108.us" tvg-id="LFUCG108.us"  tvg-chno="1408"  tvg-logo="" group-title="Local News",LFUCG CAM 108
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-108.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG109.us" tvg-id="LFUCG109.us"  tvg-chno="1409"  tvg-logo="" group-title="Local News",LFUCG CAM 109
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-109.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG110.us" tvg-id="LFUCG110.us"  tvg-chno="1410"  tvg-logo="" group-title="Local News",LFUCG CAM 110
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-110.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG111.us" tvg-id="LFUCG111.us"  tvg-chno="1411"  tvg-logo="" group-title="Local News",LFUCG CAM 111
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-111.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG112.us" tvg-id="LFUCG112.us"  tvg-chno="1412"  tvg-logo="" group-title="Local News",LFUCG CAM 112
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-112.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG113.us" tvg-id="LFUCG113.us"  tvg-chno="1413"  tvg-logo="" group-title="Local News",LFUCG CAM 113
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-113.stream/playlist.m3u8
