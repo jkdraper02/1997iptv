@@ -2,6 +2,8 @@
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 channel-id="pluto-61e9af6bfbbcc6000700119b" tvg-id="61e9af6bfbbcc6000700119b"  tvg-chno="71"  tvg-logo="https://play-lh.googleusercontent.com/d7f1tiR8kJG84YYHTY_rWVP5IqGHKLL3LWpbWfw19hfZQb0YvY3SgHc9tF_6kJeU=w600-h300-pc0xffffff-pd" group-title="News & Weather",WeatherNation - Los Angeles
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e9af6bfbbcc6000700119b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="LEXTV.us" tvg-id="LEXTV.us"  tvg-chno="74"  tvg-logo="http://www.energystar.gov/ia/products/lighting/cal/images/LFUCG_eal.JPG" group-title="Local News",LFUCG TV
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_002/playlist.m3u8
 #EXTINF:-1 channel-id="WLEXNEWS.us" tvg-id="WLEXNEWS.us"  tvg-chno="75"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/Wlex_nbc18_lexington.png" group-title="Local News",WLEX-DT News Lexington KY
 https://content.uplynk.com/channel/94ab0fcd1b304176a28dbf64521aa6a4.m3u8
 #EXTINF:-1 channel-id="WTVQLEXNEWS.us" tvg-id="WTVQLEXNEWS.us"  tvg-chno="76"  tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/04/WTVQ_ABC_36_News_Storm_Team_Logo.png" group-title="Local News",WTVQ-DT News Lexington KY
