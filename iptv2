@@ -622,5 +622,5 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
 #EXTINF:-1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e"  tvg-chno="1154"  tvg-logo="" group-title="Relaxation",NaturESCAPE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="LFUCG1.us" tvg-id="LFUCG1.us"  tvg-chno="1301"  tvg-logo="" group-title="Local News",LFUCG CAM 1
-https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-001.stream/playlist.m3u8
+#EXTINF:-1 channel-id="LFUCG64.us" tvg-id="LFUCG64.us"  tvg-chno="1364"  tvg-logo="" group-title="Local News",LFUCG CAM 64
+https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-064.stream/playlist.m3u8
