@@ -851,8 +851,8 @@ https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-112.stream/play
 #EXTINF:-1 channel-id="LFUCG113.us" tvg-id="LFUCG113.us"  tvg-chno="3113"  tvg-logo="" group-title="Local News",LFUCG -  113 - Main & Rose
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-113.stream/playlist.m3u8
 #EXTINF:-1 channel-id="DTLEX.us" tvg-id="DTLex.us"  tvg-chno="3114"  tvg-logo="" group-title="Local News",WKYT Lexington Downtown
-https://e1-na8.angelcam.com/cameras/102804/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDI4MDQiLCJkZXZpY2VfaWQiOiIxMDI4MDQiLCJ0aW1lIjoxNjYyNzUzMzY0ODY3ODE3LCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2Ea9423c4500ce2ae077249af0ba528b0347258506435239e9dd4eb9a001f0bcb2
+https://e1-na8.angelcam.com/cameras/102804/streams/hls/playlist.m3u8
 #EXTINF:-1 channel-id="TCLEX.us" tvg-id="TCLEX.us"  tvg-chno="3115"  tvg-logo="" group-title="Local News",WKYT Tower Cam
-https://e1-na7.angelcam.com/cameras/102808/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDI4MDgiLCJkZXZpY2VfaWQiOiIxMDI4MDgiLCJ0aW1lIjoxNjYyNzU0MTUxOTkwNjMzLCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E4467f1a968ab3831210bbae667be5b5a9311a510e2c870e8053f484b2493f5dc
+https://e1-na7.angelcam.com/cameras/102808/streams/hls/playlist.m3u8
 #EXTINF:-1 channel-id="WKYTCAM.us" tvg-id="WKYTCAM.us"  tvg-chno="3116"  tvg-logo="" group-title="Local News",WKYT Studio Cam
-https://e1-na7.angelcam.com/cameras/102806/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDI4MDYiLCJkZXZpY2VfaWQiOiIxMDI4MDYiLCJ0aW1lIjoxNjYyNzU0MzAxNzMzNzAxLCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E83790d4629b3ac962ff8a8b1f431ddf1e38f87a90161c56f293204c6dd424d2f
+https://e1-na7.angelcam.com/cameras/102806/streams/hls/playlist.m3u8
