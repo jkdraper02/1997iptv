@@ -850,9 +850,3 @@ https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-111.stream/play
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-112.stream/playlist.m3u8
 #EXTINF:-1 channel-id="LFUCG113.us" tvg-id="LFUCG113.us"  tvg-chno="3113"  tvg-logo="" group-title="Local News",LFUCG -  113 - Main & Rose
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-113.stream/playlist.m3u8
-#EXTINF:-1 channel-id="DTLEX.us" tvg-id="DTLex.us"  tvg-chno="3114"  tvg-logo="" group-title="Local News",WKYT Lexington Downtown
-https://e1-na8.angelcam.com/cameras/102804/streams/hls/playlist.m3u8
-#EXTINF:-1 channel-id="TCLEX.us" tvg-id="TCLEX.us"  tvg-chno="3115"  tvg-logo="" group-title="Local News",WKYT Tower Cam
-https://e1-na7.angelcam.com/cameras/102808/streams/hls/playlist.m3u8
-#EXTINF:-1 channel-id="WKYTCAM.us" tvg-id="WKYTCAM.us"  tvg-chno="3116"  tvg-logo="" group-title="Local News",WKYT Studio Cam
-https://e1-na7.angelcam.com/cameras/102806/streams/hls/playlist.m3u8
