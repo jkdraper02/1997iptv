@@ -850,3 +850,365 @@ https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-111.stream/play
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-112.stream/playlist.m3u8
 #EXTINF:-1 channel-id="LFUCG113.us" tvg-id="LFUCG113.us"  tvg-chno="3113"  tvg-logo="" group-title="Local News",LFUCG -  113 - Main & Rose
 https://5723acd20ffa9.streamlock.net:1935/lexington-live/lex-cam-113.stream/playlist.m3u8
+#EXTINF:-1 channel-id="AdventureSportsNetwork.us" tvg-id="AdventureSportsNetwork.us"  tvg-chno="5000"  tvg-logo="" group-title="",Adventure Sports Network (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 channel-id="AdventureSportsNetwork.us" tvg-id="AdventureSportsNetwork.us"  tvg-chno="5000"  tvg-logo="" group-title="",Adventure Sports Network (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 channel-id="Ameba.us" tvg-id="Ameba.us"  tvg-chno="5002"  tvg-logo="" group-title="",Ameba (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="AmericanClassics.us" tvg-id="AmericanClassics.us"  tvg-chno="5003"  tvg-logo="" group-title="",American Classics (432p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="AmericasTestKitchen.us" tvg-id="AmericasTestKitchen.us"  tvg-chno="5004"  tvg-logo="" group-title="",America's Test Kitchen (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ArchitecturalDigest.us" tvg-id="ArchitecturalDigest.us"  tvg-chno="5005"  tvg-logo="" group-title="",Architectural Digest (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ArchitecturalDigest.us" tvg-id="ArchitecturalDigest.us"  tvg-chno="5005"  tvg-logo="" group-title="",Architectural Digest (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Asylum.us" tvg-id="Asylum.us"  tvg-chno="5007"  tvg-logo="" group-title="",Asylum (XUMO) (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Baeble.us" tvg-id="Baeble.us"  tvg-chno="5008"  tvg-logo="" group-title="",Baeble Music (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="BatteryPopXUMO.us" tvg-id="BatteryPopXUMO.us"  tvg-chno="5009"  tvg-logo="" group-title="",Battery Pop (XUMO) (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="BlackNewsChannel.us" tvg-id="BlackNewsChannel.us"  tvg-chno="5010"  tvg-logo="" group-title="",Black News Channel (1080p)   
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="BlackNewsChannel.us" tvg-id="BlackNewsChannel.us"  tvg-chno="5010"  tvg-logo="" group-title="",Black News Channel (1080p)   
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="BlackNewsChannel.us" tvg-id="BlackNewsChannel.us"  tvg-chno="5010"  tvg-logo="" group-title="",Black News Channel (1080p)   
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="BlackNewsChannel.us" tvg-id="BlackNewsChannel.us"  tvg-chno="5010"  tvg-logo="" group-title="",Black News Channel (1080p)   
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="BloombergTV.us" tvg-id="BloombergTV.us"  tvg-chno="5014"  tvg-logo="" group-title="",Bloomberg TV US (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="bonappetit.us" tvg-id="bonappetit.us"  tvg-chno="5015"  tvg-logo="" group-title="",bon appétit (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CBCNews.us" tvg-id="CBCNews.us"  tvg-chno="5016"  tvg-logo="" group-title="",CBC News (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CBCNewsXUMO.us" tvg-id="CBCNewsXUMO.us"  tvg-chno="5017"  tvg-logo="" group-title="",CBC News (XUMO) (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:-1 channel-id="Cheddar.us" tvg-id="Cheddar.us"  tvg-chno="5018"  tvg-logo="" group-title="",Cheddar News (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Cheddar.us" tvg-id="Cheddar.us"  tvg-chno="5018"  tvg-logo="" group-title="",Cheddar News (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ChiveTV.us" tvg-id="ChiveTV.us"  tvg-chno="5020"  tvg-logo="" group-title="",Chive TV (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CineRomantico.us" tvg-id="CineRomantico.us"  tvg-chno="5021"  tvg-logo="" group-title="",Cine Romantico (XUMO) (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Circle.us" tvg-id="Circle.us"  tvg-chno="5022"  tvg-logo="" group-title="",Circle (1080p)     
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="Circle.us" tvg-id="Circle.us"  tvg-chno="5022"  tvg-logo="" group-title="",Circle (1080p)     
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="Circle.us" tvg-id="Circle.us"  tvg-chno="5022"  tvg-logo="" group-title="",Circle (1080p)     
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="ComedyDynamics.us" tvg-id="ComedyDynamics.us"  tvg-chno="123"  tvg-logo="" group-title="Entertainment Comedy",Comedy Dynamics
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="Complex.us" tvg-id="Complex.us"  tvg-chno="5026"  tvg-logo="" group-title="",Complex (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Complex.us" tvg-id="Complex.us"  tvg-chno="5026"  tvg-logo="" group-title="",Complex (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CONtv.us" tvg-id="CONtv.us"  tvg-chno="187"  tvg-logo="" group-title="Classic TV",CONtv
+https://d2rir1vttzppfq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="CONtvAnime.us" tvg-id="CONtvAnime.us"  tvg-chno="5029"  tvg-logo="" group-title="",CONtv Anime (1080p)    
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CONtvAnime.us" tvg-id="CONtvAnime.us"  tvg-chno="5029"  tvg-logo="" group-title="",CONtv Anime (1080p)    
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="CrackleXUMO.us" tvg-id="CrackleXUMO.us"  tvg-chno="5031"  tvg-logo="" group-title="",Crackle (XUMO) (1080p)    
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="Docurama.us" tvg-id="Docurama.us"  tvg-chno="5032"  tvg-logo="" group-title="",Docurama (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Docurama.us" tvg-id="Docurama.us"  tvg-chno="5032"  tvg-logo="" group-title="",Docurama (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Docurama.us" tvg-id="Docurama.us"  tvg-chno="5032"  tvg-logo="" group-title="",Docurama (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="DoveChannel.us" tvg-id="DoveChannel.us"  tvg-chno="5035"  tvg-logo="" group-title="",Dove Channel (1080p)    
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 channel-id="ElectricNow.us" tvg-id="ElectricNow.us"  tvg-chno="148"  tvg-logo="" group-title="Entertainment Drama",ElectricNow
+https://ov.ottera.tv/live/master.m3u8?channel=elec_en
+#EXTINF:-1 channel-id="eScapesXUMO.us" tvg-id="eScapesXUMO.us"  tvg-chno="5037"  tvg-logo="" group-title="",eScapes (XUMO) (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+#EXTINF:-1 channel-id="FailArmy.us" tvg-id="FailArmy.us"  tvg-chno="5038"  tvg-logo="" group-title="",FailArmy International (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmHub.us" tvg-id="FilmHub.us"  tvg-chno="5039"  tvg-logo="" group-title="",Film Hub (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseAction.us" tvg-id="FilmRiseAction.us"  tvg-chno="5040"  tvg-logo="" group-title="",FilmRise Action (432p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseClassicTV.us" tvg-id="FilmRiseClassicTV.us"  tvg-chno="5041"  tvg-logo="" group-title="",FilmRise Classic TV (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseClassicTV.us" tvg-id="FilmRiseClassicTV.us"  tvg-chno="5041"  tvg-logo="" group-title="",FilmRise Classic TV (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseClassicTV.us" tvg-id="FilmRiseClassicTV.us"  tvg-chno="5041"  tvg-logo="" group-title="",FilmRise Classic TV (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFamily.us" tvg-id="FilmRiseFamily.us"  tvg-chno="5044"  tvg-logo="" group-title="",FilmRise Family (720p)    
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFamily.us" tvg-id="FilmRiseFamily.us"  tvg-chno="5044"  tvg-logo="" group-title="",FilmRise Family (720p)    
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFamily.us" tvg-id="FilmRiseFamily.us"  tvg-chno="5044"  tvg-logo="" group-title="",FilmRise Family (720p)    
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseForensicFiles.us" tvg-id="FilmRiseForensicFiles.us"  tvg-chno="5047"  tvg-logo="" group-title="",FilmRise Forensic Files (144p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 channel-id="FilmRiseForensicFilesXUMO.us" tvg-id="FilmRiseForensicFilesXUMO.us"  tvg-chno="5048"  tvg-logo="" group-title="",FilmRise Forensic Files (XUMO) (432p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFreeMovies.us" tvg-id="FilmRiseFreeMovies.us"  tvg-chno="5049"  tvg-logo="" group-title="",FilmRise Free Movies (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFreeMovies.us" tvg-id="FilmRiseFreeMovies.us"  tvg-chno="5049"  tvg-logo="" group-title="",FilmRise Free Movies (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseFreeMoviesRedbox.us" tvg-id="FilmRiseFreeMoviesRedbox.us"  tvg-chno="5051"  tvg-logo="" group-title="",FilmRise Free Movies (Redbox) (720p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseHellsKitchen.us" tvg-id="FilmRiseHellsKitchen.us"  tvg-chno="5052"  tvg-logo="" group-title="",FilmRise Hell's Kitchen (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseMysteriesXUMO.us" tvg-id="FilmRiseMysteriesXUMO.us"  tvg-chno="5053"  tvg-logo="" group-title="",FilmRise Mysteries (XUMO) (432p)   
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseMysteriesXUMO.us" tvg-id="FilmRiseMysteriesXUMO.us"  tvg-chno="5053"  tvg-logo="" group-title="",FilmRise Mysteries (XUMO) (432p)   
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseSciFiXUMO.us" tvg-id="FilmRiseSciFiXUMO.us"  tvg-chno="5055"  tvg-logo="" group-title="",FilmRise Sci-Fi (XUMO) (144p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseTrueCrime.us" tvg-id="FilmRiseTrueCrime.us"  tvg-chno="5056"  tvg-logo="" group-title="",FilmRise TRUE Crime (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FilmRiseWestern.us" tvg-id="FilmRiseWestern.us"  tvg-chno="5057"  tvg-logo="" group-title="",FilmRise Western (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FiremanSam.us" tvg-id="FiremanSam.us"  tvg-chno="5058"  tvg-logo="" group-title="",Fireman Sam (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Food52.us" tvg-id="Food52.us"  tvg-chno="5059"  tvg-logo="" group-title="",Food 52 (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Food52.us" tvg-id="Food52.us"  tvg-chno="5059"  tvg-logo="" group-title="",Food 52 (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Food52.us" tvg-id="Food52.us"  tvg-chno="5059"  tvg-logo="" group-title="",Food 52 (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FoxWeather.us" tvg-id="FoxWeather.us"  tvg-chno="70"  tvg-logo="" group-title="News & Weather",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 channel-id="FoxWeather.us" tvg-id="FoxWeather.us"  tvg-chno="70"  tvg-logo="" group-title="News & Weather",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 channel-id="FunnyorDie.us" tvg-id="FunnyorDie.us"  tvg-chno="5064"  tvg-logo="" group-title="",Funny or Die (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FunnyorDie.us" tvg-id="FunnyorDie.us"  tvg-chno="5064"  tvg-logo="" group-title="",Funny or Die (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="FuseEast.us" tvg-id="FuseEast.us"  tvg-chno="5066"  tvg-logo="" group-title="",Fuse East (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Glamour.us" tvg-id="Glamour.us"  tvg-chno="5067"  tvg-logo="" group-title="",Glamour (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Glamour.us" tvg-id="Glamour.us"  tvg-chno="5067"  tvg-logo="" group-title="",Glamour (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GlobalGotTalent.us" tvg-id="GlobalGotTalent.us"  tvg-chno="5069"  tvg-logo="" group-title="",Global Got Talent (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GloryKickboxing.us" tvg-id="GloryKickboxing.us"  tvg-chno="5070"  tvg-logo="" group-title="",Glory Kickboxing (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GoTraveler.us" tvg-id="GoTraveler.us"  tvg-chno="5071"  tvg-logo="" group-title="",Go Traveler (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GQ.us" tvg-id="GQ.us"  tvg-chno="5072"  tvg-logo="" group-title="",GQ (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GQ.us" tvg-id="GQ.us"  tvg-chno="5072"  tvg-logo="" group-title="",GQ (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GravitasMovies.us" tvg-id="GravitasMovies.us"  tvg-chno="5074"  tvg-logo="" group-title="",Gravitas Movies (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="GravitasMovies.us" tvg-id="GravitasMovies.us"  tvg-chno="5074"  tvg-logo="" group-title="",Gravitas Movies (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="HallmarkMoviesMore.us" tvg-id="HallmarkMoviesMore.us"  tvg-chno="5076"  tvg-logo="" group-title="",Hallmark Movies & More (720p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="HardKnocks.us" tvg-id="HardKnocks.us"  tvg-chno="5077"  tvg-logo="" group-title="",Hard Knocks (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Hungry.us" tvg-id="Hungry.us"  tvg-chno="5078"  tvg-logo="" group-title="",Hungry (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="InsightTV.nl" tvg-id="InsightTV.nl"  tvg-chno="5079"  tvg-logo="" group-title="",Insight TV (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
+#EXTINF:-1 channel-id="Journy.us" tvg-id="Journy.us"  tvg-chno="5080"  tvg-logo="" group-title="",Journy (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="JustforLaughsGags.us" tvg-id="JustforLaughsGags.us"  tvg-chno="5081"  tvg-logo="" group-title="",Just for Laughs Gags (720p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+#EXTINF:-1 channel-id="JustforLaughsGags.us" tvg-id="JustforLaughsGags.us"  tvg-chno="5081"  tvg-logo="" group-title="",Just for Laughs Gags (720p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+#EXTINF:-1 channel-id="kabillion.us" tvg-id="kabillion.us"  tvg-chno="5083"  tvg-logo="" group-title="",kabillion (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="KidGenius.us" tvg-id="KidGenius.us"  tvg-chno="5084"  tvg-logo="" group-title="",Kid Genius (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="KocowaClassic.us" tvg-id="KocowaClassic.us"  tvg-chno="5085"  tvg-logo="" group-title="",Kocowa Classic (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="LatidoMusic.us" tvg-id="LatidoMusic.us"  tvg-chno="5086"  tvg-logo="" group-title="",Latido Music (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
+#EXTINF:-1 channel-id="LawCrime.us" tvg-id="LawCrime.us"  tvg-chno="241"  tvg-logo="" group-title="Crime & Justice",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 channel-id="LawCrime.us" tvg-id="LawCrime.us"  tvg-chno="241"  tvg-logo="" group-title="Crime & Justice",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 channel-id="LawCrimeXUMO.us" tvg-id="LawCrimeXUMO.us"  tvg-chno="5089"  tvg-logo="" group-title="",Law & Crime (XUMO) (720p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="LIVExLIVE.us" tvg-id="LIVExLIVE.us"  tvg-chno="5090"  tvg-logo="" group-title="",LIVExLIVE (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
+#EXTINF:-1 channel-id="MaverickBlackCinema.us" tvg-id="MaverickBlackCinema.us"  tvg-chno="5091"  tvg-logo="" group-title="",Maverick Black Cinema (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Moovimex.us" tvg-id="Moovimex.us"  tvg-chno="5092"  tvg-logo="" group-title="",Moovimex (432p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Moovimex.us" tvg-id="Moovimex.us"  tvg-chno="5092"  tvg-logo="" group-title="",Moovimex (432p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NBCNewsNow.us" tvg-id="NBCNewsNow.us"  tvg-chno="5094"  tvg-logo="" group-title="",NBC News Now (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NBCNewsNow.us" tvg-id="NBCNewsNow.us"  tvg-chno="5094"  tvg-logo="" group-title="",NBC News Now (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NewsmaxTV.us" tvg-id="NewsmaxTV.us"  tvg-chno="5096"  tvg-logo="" group-title="",Newsmax (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NitroCircus.us" tvg-id="NitroCircus.us"  tvg-chno="5097"  tvg-logo="" group-title="",Nitro Circus (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Nosey.us" tvg-id="Nosey.us"  tvg-chno="5098"  tvg-logo="" group-title="",Nosey (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NowThis.us" tvg-id="NowThis.us"  tvg-chno="5099"  tvg-logo="" group-title="",Now This (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NowThis.us" tvg-id="NowThis.us"  tvg-chno="5099"  tvg-logo="" group-title="",Now This (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="NowThisXUMO.us" tvg-id="NowThisXUMO.us"  tvg-chno="5101"  tvg-logo="" group-title="",Now This (XUMO) (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
+#EXTINF:-1 channel-id="OutdoorAmerica.us" tvg-id="OutdoorAmerica.us"  tvg-chno="5102"  tvg-logo="" group-title="",Outdoor America (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="OutsideTV.us" tvg-id="OutsideTV.us"  tvg-chno="5103"  tvg-logo="" group-title="",Outside TV (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="OutsideTVPlus.us" tvg-id="OutsideTVPlus.us"  tvg-chno="5104"  tvg-logo="" group-title="",Outside TV Plus (1080p)   
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="OutsideTVPlus.us" tvg-id="OutsideTVPlus.us"  tvg-chno="5104"  tvg-logo="" group-title="",Outside TV Plus (1080p)   
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="PeopleareAwesomeUS.us" tvg-id="PeopleareAwesomeUS.us"  tvg-chno="5106"  tvg-logo="" group-title="",People are Awesome (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="PeopleareAwesomeUS.us" tvg-id="PeopleareAwesomeUS.us"  tvg-chno="5106"  tvg-logo="" group-title="",People are Awesome (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="PeopleTV.us" tvg-id="PeopleTV.us"  tvg-chno="213"  tvg-logo="https://imgx.fubo.tv/station_logos/peopletv_c.png" group-title="Reality",People TV
+https://peopletv-oo.akamaized.net/playlist.m3u8
+#EXTINF:-1 channel-id="PlayersTV.us" tvg-id="PlayersTV.us"  tvg-chno="5109"  tvg-logo="" group-title="",Players TV (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 channel-id="PocketWatch.us" tvg-id="PocketWatch.us"  tvg-chno="5110"  tvg-logo="" group-title="",pocket.watch (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="PongaloNovelaclub.us" tvg-id="PongaloNovelaclub.us"  tvg-chno="5111"  tvg-logo="" group-title="",Pongalo Novelaclub (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="RainbowRuby.us" tvg-id="RainbowRuby.us"  tvg-chno="5112"  tvg-logo="" group-title="",Rainbow Ruby (360p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Realnosey.us" tvg-id="Realnosey.us"  tvg-chno="5113"  tvg-logo="" group-title="",Real nosey (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Reelz.us" tvg-id="Reelz.us"  tvg-chno="5114"  tvg-logo="" group-title="",Reelz (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ReelzChannelXUMO.us" tvg-id="ReelzChannelXUMO.us"  tvg-chno="5115"  tvg-logo="" group-title="",Reelz Channel (XUMO) (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="RevandRoll.us" tvg-id="RevandRoll.us"  tvg-chno="5116"  tvg-logo="" group-title="",Rev and Roll (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Revry.us" tvg-id="Revry.us"  tvg-chno="172"  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="LGBTQ+",Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="SamuelGoldwynChannel.us" tvg-id="SamuelGoldwynChannel.us"  tvg-chno="5118"  tvg-logo="" group-title="",Samuel Goldwyn Channel (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ShopLC.us" tvg-id="ShopLC.us"  tvg-chno="5119"  tvg-logo="" group-title="",Shop LC (1080p)    
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+#EXTINF:-1 channel-id="ShoutFactoryTV.us" tvg-id="ShoutFactoryTV.us"  tvg-chno="5120"  tvg-logo="" group-title="",Shout! Factory TV (1080p)   
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="ShowtimeattheApollo.us" tvg-id="ShowtimeattheApollo.us"  tvg-chno="5121"  tvg-logo="" group-title="",Showtime at the Apollo (432p)  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="SoYummy.us" tvg-id="SoYummy.us"  tvg-chno="5122"  tvg-logo="" group-title="",So Yummy! (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="SoYummy.us" tvg-id="SoYummy.us"  tvg-chno="5122"  tvg-logo="" group-title="",So Yummy! (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="SportsGrid.us" tvg-id="SportsGrid.us"  tvg-chno="5124"  tvg-logo="" group-title="",SportsGrid (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 channel-id="SportsGrid.us" tvg-id="SportsGrid.us"  tvg-chno="5124"  tvg-logo="" group-title="",SportsGrid (1080p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 channel-id="Stadium.us" tvg-id="Stadium.us"  tvg-chno="5126"  tvg-logo="" group-title="",Stadium (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 channel-id="StingrayAmbience.ca" tvg-id="StingrayAmbience.ca"  tvg-chno="5127"  tvg-logo="" group-title="",Stingray Ambience (1080p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayClassicRock.ca" tvg-id="StingrayClassicRock.ca"  tvg-chno="5128"  tvg-logo="" group-title="",Stingray Classic Rock (1080p) [Not 24/7] 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayClassicRock.ca" tvg-id="StingrayClassicRock.ca"  tvg-chno="5128"  tvg-logo="" group-title="",Stingray Classic Rock (1080p) [Not 24/7] 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayClassicRock.ca" tvg-id="StingrayClassicRock.ca"  tvg-chno="5128"  tvg-logo="" group-title="",Stingray Classic Rock (1080p) [Not 24/7] 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayGreatestHits.ca" tvg-id="StingrayGreatestHits.ca"  tvg-chno="5131"  tvg-logo="" group-title="",Stingray Greatest Hits (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayGreatestHits.ca" tvg-id="StingrayGreatestHits.ca"  tvg-chno="5131"  tvg-logo="" group-title="",Stingray Greatest Hits (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayGreatestHits.ca" tvg-id="StingrayGreatestHits.ca"  tvg-chno="5131"  tvg-logo="" group-title="",Stingray Greatest Hits (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayHitList.ca" tvg-id="StingrayHitList.ca"  tvg-chno="5134"  tvg-logo="" group-title="",Stingray Hit List (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayHitList.ca" tvg-id="StingrayHitList.ca"  tvg-chno="5134"  tvg-logo="" group-title="",Stingray Hit List (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayHotCountry.ca" tvg-id="StingrayHotCountry.ca"  tvg-chno="5136"  tvg-logo="" group-title="",Stingray Hot Country (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayHotCountry.ca" tvg-id="StingrayHotCountry.ca"  tvg-chno="5136"  tvg-logo="" group-title="",Stingray Hot Country (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayHotCountry.ca" tvg-id="StingrayHotCountry.ca"  tvg-chno="5136"  tvg-logo="" group-title="",Stingray Hot Country (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayKaraoke.ca" tvg-id="StingrayKaraoke.ca"  tvg-chno="5139"  tvg-logo="" group-title="",Stingray Karaoke (144p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+#EXTINF:-1 channel-id="StingrayNaturescape.ca" tvg-id="StingrayNaturescape.ca"  tvg-chno="5140"  tvg-logo="" group-title="",Stingray Naturescape (360p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayNaturescape.ca" tvg-id="StingrayNaturescape.ca"  tvg-chno="5140"  tvg-logo="" group-title="",Stingray Naturescape (360p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayQelloConcerts.ca" tvg-id="StingrayQelloConcerts.ca"  tvg-chno="5142"  tvg-logo="" group-title="",Stingray Qello Concerts (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingrayQelloConcerts.ca" tvg-id="StingrayQelloConcerts.ca"  tvg-chno="5142"  tvg-logo="" group-title="",Stingray Qello Concerts (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingraySoulStorm.ca" tvg-id="StingraySoulStorm.ca"  tvg-chno="5144"  tvg-logo="" group-title="",Stingray Soul Storm (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingraySoulStorm.ca" tvg-id="StingraySoulStorm.ca"  tvg-chno="5144"  tvg-logo="" group-title="",Stingray Soul Storm (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="StingraySoulStorm.ca" tvg-id="StingraySoulStorm.ca"  tvg-chno="5144"  tvg-logo="" group-title="",Stingray Soul Storm (1080p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Tastemade.us" tvg-id="Tastemade.us"  tvg-chno="542"  tvg-logo="" group-title="Home & Garden",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Teletubbies.uk" tvg-id="Teletubbies.uk"  tvg-chno="5148"  tvg-logo="" group-title="",Teletubbies (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="TheArchive.us" tvg-id="TheArchive.us"  tvg-chno="730"  tvg-logo="" group-title="Movies",The Archive
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
+#EXTINF:-1 channel-id="TheBobRossChannel.us" tvg-id="TheBobRossChannel.us"  tvg-chno="5150"  tvg-logo="" group-title="",The Bob Ross Channel (1080p)  
+https://bobross-xumous-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 channel-id="TheBobRossChannel.us" tvg-id="TheBobRossChannel.us"  tvg-chno="5150"  tvg-logo="" group-title="",The Bob Ross Channel (1080p)  
+https://bobross-xumous-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 channel-id="TheBobRossChannel.us" tvg-id="TheBobRossChannel.us"  tvg-chno="5150"  tvg-logo="" group-title="",The Bob Ross Channel (1080p)  
+https://bobross-xumous-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 channel-id="TheDesignNetwork.us" tvg-id="TheDesignNetwork.us"  tvg-chno="5153"  tvg-logo="" group-title="",The Design Network (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ThePetCollective.us" tvg-id="ThePetCollective.us"  tvg-chno="5154"  tvg-logo="" group-title="",The Pet Collective (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ThePetCollective.us" tvg-id="ThePetCollective.us"  tvg-chno="5154"  tvg-logo="" group-title="",The Pet Collective (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ThePreviewChannel.us" tvg-id="ThePreviewChannel.us"  tvg-chno="5156"  tvg-logo="" group-title="",The Preview Channel (720p)   
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+#EXTINF:-1 channel-id="TheYoungTurks.us" tvg-id="TheYoungTurks.us"  tvg-chno="5157"  tvg-logo="" group-title="",The Young Turks (TYT) (1080p) [Not 24/7]
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="TMZ.us" tvg-id="TMZ.us"  tvg-chno="5158"  tvg-logo="" group-title="",TMZ (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="TMZ.us" tvg-id="TMZ.us"  tvg-chno="5158"  tvg-logo="" group-title="",TMZ (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="TMZ.us" tvg-id="TMZ.us"  tvg-chno="5158"  tvg-logo="" group-title="",TMZ (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="ToonGoggles.us" tvg-id="ToonGoggles.us"  tvg-chno="5161"  tvg-logo="" group-title="",Toon Goggles (720p) [Not 24/7]  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="USAToday.us" tvg-id="USAToday.us"  tvg-chno="5162"  tvg-logo="" group-title="",USA Today (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="USAToday.us" tvg-id="USAToday.us"  tvg-chno="5162"  tvg-logo="" group-title="",USA Today (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="USAToday.us" tvg-id="USAToday.us"  tvg-chno="5162"  tvg-logo="" group-title="",USA Today (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="USATodaySportswire.us" tvg-id="USATodaySportswire.us"  tvg-chno="5165"  tvg-logo="" group-title="",USA Today Sportswire (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="VanityFair.us" tvg-id="VanityFair.us"  tvg-chno="5166"  tvg-logo="" group-title="",Vanity Fair (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="VanityFair.us" tvg-id="VanityFair.us"  tvg-chno="5166"  tvg-logo="" group-title="",Vanity Fair (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Vevo80s.us" tvg-id="Vevo80s.us"  tvg-chno="5168"  tvg-logo="" group-title="",Vevo 80s (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="VevoPop.us" tvg-id="VevoPop.us"  tvg-chno="5169"  tvg-logo="" group-title="",Vevo Pop (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Vogue.us" tvg-id="Vogue.us"  tvg-chno="5170"  tvg-logo="" group-title="",Vogue (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Vogue.us" tvg-id="Vogue.us"  tvg-chno="5170"  tvg-logo="" group-title="",Vogue (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="VoyagerDocumentaries.us" tvg-id="VoyagerDocumentaries.us"  tvg-chno="5172"  tvg-logo="" group-title="",Voyager Documentaries (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="VoyagerDocumentaries.us" tvg-id="VoyagerDocumentaries.us"  tvg-chno="5172"  tvg-logo="" group-title="",Voyager Documentaries (720p)    
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="WeatherSpy.us" tvg-id="WeatherSpy.us"  tvg-chno="495"  tvg-logo="" group-title="Educational",Weather Spy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="WeatherSpy.us" tvg-id="WeatherSpy.us"  tvg-chno="495"  tvg-logo="" group-title="Educational",Weather Spy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="Wired.us" tvg-id="Wired.us"  tvg-chno="5176"  tvg-logo="" group-title="",Wired (720p)     
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="WorldPokerTour.us" tvg-id="WorldPokerTour.us"  tvg-chno="5177"  tvg-logo="" group-title="",World Poker Tour (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="XumoFreeMovies.us" tvg-id="XumoFreeMovies.us"  tvg-chno="5178"  tvg-logo="" group-title="",Xumo Free Movies (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="XumoFreeWesterns.us" tvg-id="XumoFreeWesterns.us"  tvg-chno="5179"  tvg-logo="" group-title="",Xumo Free Westerns (432p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="YoGabbaGabba.us" tvg-id="YoGabbaGabba.us"  tvg-chno="5180"  tvg-logo="" group-title="",Yo Gabba Gabba! (720p)   
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
