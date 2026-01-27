@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM="xmltv.dtd">
+<tv source-info-name="197iptv" generator-info-name="Copilot">
+
+  <channel id="local.news"><display-name>Local News</display-name></channel>
+  <channel id="national.news"><display-name>National News</display-name></channel>
+  <channel id="live.feed"><display-name>Live Feed</display-name></channel>
+
+  <!-- DAY 1 -->
+  <programme start="20260126000000 -0500" stop="20260126235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260126000000 -0500" stop="20260126235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260126000000 -0500" stop="20260126235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 2 -->
+  <programme start="20260127000000 -0500" stop="20260127235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260127000000 -0500" stop="20260127235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260127000000 -0500" stop="20260127235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 3 -->
+  <programme start="20260128000000 -0500" stop="20260128235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260128000000 -0500" stop="20260128235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260128000000 -0500" stop="20260128235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 4 -->
+  <programme start="20260129000000 -0500" stop="20260129235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260129000000 -0500" stop="20260129235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260129000000 -0500" stop="20260129235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 5 -->
+  <programme start="20260130000000 -0500" stop="20260130235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260130000000 -0500" stop="20260130235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260130000000 -0500" stop="20260130235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 6 -->
+  <programme start="20260131000000 -0500" stop="20260131235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260131000000 -0500" stop="20260131235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260131000000 -0500" stop="20260131235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 7 -->
+  <programme start="20260201000000 -0500" stop="20260201235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260201000000 -0500" stop="20260201235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260201000000 -0500" stop="20260201235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 8 -->
+  <programme start="20260202000000 -0500" stop="20260202235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260202000000 -0500" stop="20260202235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260202000000 -0500" stop="20260202235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 9 -->
+  <programme start="20260203000000 -0500" stop="20260203235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260203000000 -0500" stop="20260203235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260203000000 -0500" stop="20260203235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 10 -->
+  <programme start="20260204000000 -0500" stop="20260204235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260204000000 -0500" stop="20260204235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260204000000 -0500" stop="20260204235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 11 -->
+  <programme start="20260205000000 -0500" stop="20260205235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260205000000 -0500" stop="20260205235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260205000000 -0500" stop="20260205235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 12 -->
+  <programme start="20260206000000 -0500" stop="20260206235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260206000000 -0500" stop="20260206235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260206000000 -0500" stop="20260206235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 13 -->
+  <programme start="20260207000000 -0500" stop="20260207235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260207000000 -0500" stop="20260207235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260207000000 -0500" stop="20260207235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 14 -->
+  <programme start="20260208000000 -0500" stop="20260208235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260208000000 -0500" stop="20260208235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260208000000 -0500" stop="20260208235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 15 -->
+  <programme start="20260209000000 -0500" stop="20260209235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260209000000 -0500" stop="20260209235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260209000000 -0500" stop="20260209235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 16 -->
+  <programme start="20260210000000 -0500" stop="20260210235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260210000000 -0500" stop="20260210235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260210000000 -0500" stop="20260210235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 17 -->
+  <programme start="20260211000000 -0500" stop="20260211235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260211000000 -0500" stop="20260211235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260211000000 -0500" stop="20260211235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 18 -->
+  <programme start="20260212000000 -0500" stop="20260212235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260212000000 -0500" stop="20260212235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260212000000 -0500" stop="20260212235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 19 -->
+  <programme start="20260213000000 -0500" stop="20260213235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260213000000 -0500" stop="20260213235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260213000000 -0500" stop="20260213235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 20 -->
+  <programme start="20260214000000 -0500" stop="20260214235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260214000000 -0500" stop="20260214235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260214000000 -0500" stop="20260214235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 21 -->
+  <programme start="20260215000000 -0500" stop="20260215235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260215000000 -0500" stop="20260215235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260215000000 -0500" stop="20260215235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 22 -->
+  <programme start="20260216000000 -0500" stop="20260216235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260216000000 -0500" stop="20260216235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260216000000 -0500" stop="20260216235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 23 -->
+  <programme start="20260217000000 -0500" stop="20260217235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260217000000 -0500" stop="20260217235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260217000000 -0500" stop="20260217235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
+
+  <!-- DAY 24 -->
+  <programme start="20260218000000 -0500" stop="20260218235959 -0500" channel="local.news"><title>Local News (All Day)</title><desc>Continuous local news coverage.</desc></programme>
+  <programme start="20260218000000 -0500" stop="20260218235959 -0500" channel="national.news"><title>National News (All Day)</title><desc>Continuous national news coverage.</desc></programme>
+  <programme start="20260218000000 -0500" stop="20260218235959 -0500" channel="live.feed"><title>Live Feed (All Day)</title><desc>Rolling live feed coverage.</desc></programme>
